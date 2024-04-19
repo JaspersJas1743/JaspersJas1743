@@ -3,7 +3,7 @@
 ###
 
 <p align="center">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JaspersJas1743&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="JaspersJas1743" height="250px"/>
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JaspersJas1743&theme=github-dark&area=true&hide_border=true&hide_title=true&point=40c463&area_color=40c463&line=40c463&title_color=40c463&color=40c463" alt="JaspersJas1743" height="250px"/>
 </p>
 
 <p align="center">
@@ -18,3 +18,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/JaspersJas1743/JaspersJas1743/output/snake.svg" alt="Snake animation" />
 </p>
+
+###
