@@ -2,15 +2,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaspersJas1743&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JaspersJas1743&theme=github-dark&area=true&hide_border=true" height="150" alt="activity-graph graph"  />
-</div>
+<p align="center">
+    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=JaspersJas1743&theme=github-dark&area=true&hide_border=true&hide_title=true" alt="JaspersJas1743" height="250px"/>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JaspersJas1743&theme=github_dark" alt="JaspersJas1743" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JaspersJas1743&utcOffset=3&theme=github_dark" alt="JaspersJas1743" />
+</p>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/JaspersJas1743/JaspersJas1743/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JaspersJas1743/JaspersJas1743/output/snake.svg" alt="Snake animation" />
+</p>
